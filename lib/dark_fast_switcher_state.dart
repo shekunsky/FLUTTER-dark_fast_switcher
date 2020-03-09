@@ -1,0 +1,1 @@
+enum DarkFastSwitcherState { on, off }
