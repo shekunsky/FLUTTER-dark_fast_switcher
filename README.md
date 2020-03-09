@@ -2,7 +2,7 @@
 
 **dark_fast_switcher** widget for Flutter project.
 
-![](on_off_switcher.gif)
+![](dark_fast_switcher.gif)
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ For use **dark_fast_switcher** widget in your project:
             sdk: flutter
         dark_fast_switcher:
             git:
-                url: git@github.com:shekunsky/FLUTTER-on_off_switcher.git
+                url: git@github.com:shekunsky/FLUTTER-dark_fast_switcher.git
 ```
 
 2. Import widget in the dart file:
